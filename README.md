@@ -3,7 +3,7 @@
 🌱 Currently diving into React, TypeScript, and Cloud Computing.
 🤝 Open to collaborating on Open Source and exciting projects.
 💬 Ask me about Web Development & System Design.
-📫 Reach me at rokabirat059@gmail.com.
+📫 Reach me at yadavrohan98040@gmail.com.
 
 
 <!---
