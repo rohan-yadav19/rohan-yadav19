@@ -1,9 +1,3 @@
-🎓 B.Tech CSE Student passionate about software development.
-🌟 Skilled in HTML, CSS, JavaScript, and learning MERN Stack development.
-🌱 Currently diving into React, TypeScript, and Cloud Computing.
-🤝 Open to collaborating on Open Source and exciting projects.
-💬 Ask me about Web Development & System Design.
-📫 Reach me at yadavrohan98040@gmail.com.
 
 
 
@@ -11,7 +5,7 @@
 
 <div align="center">
   <h1>Hi there 👋, I'm <span style="color:#4CAF50;">Rohan Yadav</span></h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  
   
   <img src="https://komarev.com/ghpvc/?username=birat04&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /> 
   <a href="https://github.com/birat04?tab=followers">
@@ -21,6 +15,12 @@
 
 -----
 
+🎓 B.Tech CSE Student passionate about software development.
+🌟 Skilled in HTML, CSS, JavaScript, and learning MERN Stack development.
+🌱 Currently diving into React, TypeScript, and Cloud Computing.
+🤝 Open to collaborating on Open Source and exciting projects.
+💬 Ask me about Web Development & System Design.
+📫 Reach me at yadavrohan98040@gmail.com.
 
 
 -----
