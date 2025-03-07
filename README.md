@@ -7,19 +7,20 @@
   <h1>Hi there 👋, I'm <span style="color:#4CAF50;">Rohan Yadav</span></h1>
   
   
-  <img src="https://komarev.com/ghpvc/?username=birat04&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <a href="https://github.com/birat04?tab=followers">
-    <img src="https://img.shields.io/github/followers/birat04?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</div>
+ 
 
 -----
 
 🎓 B.Tech CSE Student passionate about software development.
+
 🌟 Skilled in HTML, CSS, JavaScript, and learning MERN Stack development.
+
 🌱 Currently diving into React, TypeScript, and Cloud Computing.
+
 🤝 Open to collaborating on Open Source and exciting projects.
+
 💬 Ask me about Web Development & System Design.
+
 📫 Reach me at yadavrohan98040@gmail.com.
 
 
