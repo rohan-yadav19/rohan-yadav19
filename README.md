@@ -34,7 +34,7 @@
   <a href="https://www.facebook.com/share/1EdjPoSMCr/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" />
   </a>
-  
+    <a href="https://www.instagram.com/settings/help/account_status/?__pwa=1">
 </p>
 
 -----
